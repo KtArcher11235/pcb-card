@@ -11,3 +11,4 @@ So first I followed the tutorial to place the parts, and then wired it up by the
 <img width="1244" height="717" alt="Screenshot 2026-08-19 212132" src="https://github.com/user-attachments/assets/c7d88cbf-ab12-4dcd-8f54-9099f0dea700" />
 <img width="1091" height="618" alt="Screenshot 2026-08-19 205628" src="https://github.com/user-attachments/assets/ef71d340-a037-4a6a-899b-d2c70b58fa3f" />
 >
+<1 hour, 20 minutes>
