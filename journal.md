@@ -15,3 +15,5 @@ So first I followed the tutorial to place the parts, and then wired it up by the
 # also ^
 <I made the silkscreen and traces cooler, by making a pattern out of traces and then cut it out of the mask>
 1 hour
+# Also ^
+<more fun silkscreen, ><img width="1149" height="652" alt="image" src="https://github.com/user-attachments/assets/c8970484-0e35-4693-bd1e-d7bc47e7d04e" />
