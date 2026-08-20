@@ -17,3 +17,4 @@ So first I followed the tutorial to place the parts, and then wired it up by the
 1 hour
 # Also ^
 <more fun silkscreen, ><img width="1149" height="652" alt="image" src="https://github.com/user-attachments/assets/c8970484-0e35-4693-bd1e-d7bc47e7d04e" />
+<1 hour>
